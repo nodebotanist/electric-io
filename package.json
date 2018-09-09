@@ -19,6 +19,7 @@
     "babel-runtime": "6.26.0",
     "chart.js": "2.7.2",
     "dotenv": "5.0.0",
+    "electric-io-adafruitio-receiver": "github:nodebotanist/electric-io-adafruitio-receiver#master",
     "express": "4.16.0",
     "marked": "0.4.0",
     "socket.io": "2.1.1",
